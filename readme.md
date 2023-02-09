@@ -31,3 +31,5 @@ service nginx restart
 
 ### Resultado
 Una ves realizado el reinicio y no ha dado problemas solo nos queda entrar a traves de _HTTPS_ y verificar que funciona, una vez nos conectemos  
+
+![resultado](https://github.com/Joel1747/FuncionalidadesNginx/blob/master/imagenes/Captura%20de%20pantalla%20de%202023-02-09%2017-23-53.png)
